@@ -5,6 +5,8 @@
     <title>Index</title>
   </head>
   <body>
-    <h1>Hello World! My name is Mark Moretto</h1>
+    <h1>{{"Hello World!" | downcase}}</h1>
+    <p>My name is Mark Moretto</p>
+    <p>It is currently: {{site.time | date_to_xmlschema }}</p>
   </body>
 </html>
