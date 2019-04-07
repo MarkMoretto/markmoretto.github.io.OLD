@@ -1,11 +1,10 @@
-theme: jekyll-theme-tactile
-
 # Site settings
+theme: jekyll-theme-tactile
 title: Mark M's GitHub
 email: testing@abc.com
 description: > # this means to ignore newlines until "baseurl:"
   Mark Moretto's GitHub site.
-# baseurl: "/example" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://markmoretto.github.io/" # the base hostname & protocol for your site
 twitter_username: 
 github_username: markmoretto
